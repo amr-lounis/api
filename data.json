@@ -3,57 +3,42 @@
         id:0,
         temp: 10,
         weather:"clowd",
-        wind:70,
-        visibility:100,
-        snow:0
+        icon:"https://amr-lounis.github.io/api/icons/sun.png"
     },
     {
         id:1,
         temp: 10,
         weather:"clowd",
-        wind:70,
-        visibility:100,
-        snow:0
+        icon:"https://amr-lounis.github.io/api/icons/sun.png"
     },
     {
         id:2,
         temp: 10,
         weather:"clowd",
-        wind:70,
-        visibility:100,
-        snow:0
+        icon:"https://amr-lounis.github.io/api/icons/sun.png"
     },
     {
         id:3,
         temp: 10,
         weather:"clowd",
-        wind:70,
-        visibility:100,
-        snow:0
+        icon:"https://amr-lounis.github.io/api/icons/sun.png"
     },
     {
         id:4,
         temp: 10,
         weather:"clowd",
-        wind:70,
-        visibility:100,
-        snow:0
+        icon:"https://amr-lounis.github.io/api/icons/sun.png"
     },
     {
         id:5,
         temp: 10,
-        weather:"clowd",
-        wind:70,
-        visibility:100,
-        snow:0
+        icon:"https://amr-lounis.github.io/api/icons/sun.png"
     },
     {
         id:6,
         temp: 10,
         weather:"clowd",
-        wind:70,
-        visibility:100,
-        snow:0
+        icon:"https://amr-lounis.github.io/api/icons/sun.png"
     }
 ]
 
