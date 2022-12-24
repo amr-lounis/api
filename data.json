@@ -1,44 +1,45 @@
 [
     {
         id:0,
-        temp: 10,
-        weather:"clowd",
+        temp: 40,
+        weather:"sun",
         icon:"https://amr-lounis.github.io/api/icons/sun.png"
     },
     {
         id:1,
         temp: 10,
-        weather:"clowd",
-        icon:"https://amr-lounis.github.io/api/icons/sun.png"
+        weather:"rain",
+        icon:"https://amr-lounis.github.io/api/icons/rain.png"
     },
     {
         id:2,
         temp: 10,
-        weather:"clowd",
-        icon:"https://amr-lounis.github.io/api/icons/sun.png"
+        weather:"snowing",
+        icon:"https://amr-lounis.github.io/api/icons/snowing.png"
     },
     {
         id:3,
-        temp: 10,
-        weather:"clowd",
-        icon:"https://amr-lounis.github.io/api/icons/sun.png"
+        temp: 15,
+        weather:"cloud_sun",
+        icon:"https://amr-lounis.github.io/api/icons/cloud_sun.png"
     },
     {
         id:4,
-        temp: 10,
-        weather:"clowd",
-        icon:"https://amr-lounis.github.io/api/icons/sun.png"
+        temp: 30,
+        weather:"snowing",
+        icon:"https://amr-lounis.github.io/api/icons/snowing.png"
     },
     {
         id:5,
         temp: 10,
-        icon:"https://amr-lounis.github.io/api/icons/sun.png"
+        weather:"cloud_sun",
+        icon:"https://amr-lounis.github.io/api/icons/cloud_sun.png"
     },
     {
         id:6,
         temp: 10,
-        weather:"clowd",
-        icon:"https://amr-lounis.github.io/api/icons/sun.png"
+        weather:"cloud_sun",
+        icon:"https://amr-lounis.github.io/api/icons/cloud_sun.png"
     }
 ]
 
