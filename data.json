@@ -40,7 +40,7 @@
         temp: 10,
         weather:"cloud_sun",
         icon:"https://amr-lounis.github.io/api/icons/cloud_sun.png"
-    }
+    },
     {
         id:7,
         temp: 40,
